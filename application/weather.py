@@ -1,5 +1,4 @@
 import requests
-from datetime import datetime
 
 def get_current_weather_data(api_key):
     """
